@@ -40,13 +40,13 @@ export default function Index() {
               <div className="flex items-center justify-center space-x-6">
                 <div className="text-center">
                   <h2 className="font-cormorant text-3xl md:text-4xl text-wedding-gold">
-                    Имя Невесты
+                    Ариша
                   </h2>
                 </div>
                 <Icon name="Heart" className="text-wedding-gold w-8 h-8" />
                 <div className="text-center">
                   <h2 className="font-cormorant text-3xl md:text-4xl text-wedding-gold">
-                    Имя Жениха
+                    Матюша
                   </h2>
                 </div>
               </div>
