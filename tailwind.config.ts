@@ -61,7 +61,19 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Wedding theme colors
+				wedding: {
+					gold: '#B4A378',
+					cream: '#F5F5DC', 
+					champagne: '#F7E7CE',
+					blush: '#FDF2F8',
+					sage: '#9CAF88'
 				}
+			},
+			fontFamily: {
+				'cormorant': ['Cormorant Garamond', 'serif'],
+				'montserrat': ['Montserrat', 'sans-serif']
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
